@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Antonio Noriega
+- 👋 Hi, I’m Antonio
 - 👀 I’m interested in machine learning and data science
 - 🌱 I’m currently learning data modeling
 - 💞️ I’m looking to collaborate on any open source project
